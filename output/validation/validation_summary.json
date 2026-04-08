@@ -1,0 +1,148 @@
+{
+  "eval_episodes": 10,
+  "total_anomaly_events": 50,
+  "events_with_pre_spike": 3,
+  "hit_rate": 0.06,
+  "episode_results": [
+    {
+      "episode_idx": 35,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.027223718476439403,
+        "sigma_std": 0.06071354926760563,
+        "sigma_max": 0.344637006521225,
+        "sigma_min": 0.0015113435219973326,
+        "caution_count": 5,
+        "curiosity_count": 11,
+        "caution_frac": 0.045454545454545456
+      }
+    },
+    {
+      "episode_idx": 47,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.028213196232411634,
+        "sigma_std": 0.06414135262539171,
+        "sigma_max": 0.39566296339035034,
+        "sigma_min": 0.0008605654002167284,
+        "caution_count": 2,
+        "curiosity_count": 8,
+        "caution_frac": 0.020202020202020204
+      }
+    },
+    {
+      "episode_idx": 39,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.026296412210545635,
+        "sigma_std": 0.05989271082228996,
+        "sigma_max": 0.3506946861743927,
+        "sigma_min": 0.0009397277608513832,
+        "caution_count": 11,
+        "curiosity_count": 10,
+        "caution_frac": 0.09821428571428571
+      }
+    },
+    {
+      "episode_idx": 83,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.03191358743454604,
+        "sigma_std": 0.06832082383542142,
+        "sigma_max": 0.3625774085521698,
+        "sigma_min": 0.0008578890119679272,
+        "caution_count": 4,
+        "curiosity_count": 5,
+        "caution_frac": 0.047058823529411764
+      }
+    },
+    {
+      "episode_idx": 57,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.026261553283708557,
+        "sigma_std": 0.05874498280891547,
+        "sigma_max": 0.35297006368637085,
+        "sigma_min": 0.0016442211344838142,
+        "caution_count": 7,
+        "curiosity_count": 10,
+        "caution_frac": 0.0603448275862069
+      }
+    },
+    {
+      "episode_idx": 2,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.03872225458367861,
+        "sigma_std": 0.07481946778931191,
+        "sigma_max": 0.41133028268814087,
+        "sigma_min": 0.0013445218792185187,
+        "caution_count": 6,
+        "curiosity_count": 3,
+        "caution_frac": 0.08571428571428572
+      }
+    },
+    {
+      "episode_idx": 25,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.027928658653157374,
+        "sigma_std": 0.06482216647462426,
+        "sigma_max": 0.39638349413871765,
+        "sigma_min": 0.001570055610500276,
+        "caution_count": 4,
+        "curiosity_count": 10,
+        "caution_frac": 0.041666666666666664
+      }
+    },
+    {
+      "episode_idx": 29,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.02647132409159288,
+        "sigma_std": 0.06464654651100347,
+        "sigma_max": 0.3590354025363922,
+        "sigma_min": 0.001081068767234683,
+        "caution_count": 7,
+        "curiosity_count": 7,
+        "caution_frac": 0.07291666666666667
+      }
+    },
+    {
+      "episode_idx": 6,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.031977331443369915,
+        "sigma_std": 0.06273044894487932,
+        "sigma_max": 0.35954925417900085,
+        "sigma_min": 0.0012816982343792915,
+        "caution_count": 10,
+        "curiosity_count": 7,
+        "caution_frac": 0.10101010101010101
+      }
+    },
+    {
+      "episode_idx": 84,
+      "task": "",
+      "success": true,
+      "stats": {
+        "sigma_mean": 0.03245977337497312,
+        "sigma_std": 0.060040320476192316,
+        "sigma_max": 0.340503454208374,
+        "sigma_min": 0.0018661515787243843,
+        "caution_count": 5,
+        "curiosity_count": 7,
+        "caution_frac": 0.04504504504504504
+      }
+    }
+  ]
+}

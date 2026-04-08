@@ -1,0 +1,228 @@
+{
+  "dataset": "lerobot/droid_100",
+  "num_successes": 81,
+  "num_failures": 19,
+  "training_metrics": {
+    "mse": 0.06761000394335769,
+    "rmse": 0.2600192376409055,
+    "num_samples": 27733
+  },
+  "sigma_comparison": {
+    "success_mean": 0.2191610919267834,
+    "failure_mean": 0.29629732321304114,
+    "ratio": 1.35196133861218,
+    "success_max_mean": 5.0871116235852245,
+    "failure_max_mean": 4.59372264695795
+  },
+  "failed_episodes": [
+    {
+      "episode_idx": 5,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.3517705128087025,
+        "sigma_std": 0.6327117917546019,
+        "sigma_max": 5.6147356033325195,
+        "caution_count": 3,
+        "curiosity_count": 1
+      }
+    },
+    {
+      "episode_idx": 9,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.3178471735222292,
+        "sigma_std": 0.8152954172722426,
+        "sigma_max": 6.258507251739502,
+        "caution_count": 33,
+        "curiosity_count": 13
+      }
+    },
+    {
+      "episode_idx": 18,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.38486962117171486,
+        "sigma_std": 0.9275468845967685,
+        "sigma_max": 6.055241584777832,
+        "caution_count": 20,
+        "curiosity_count": 6
+      }
+    },
+    {
+      "episode_idx": 41,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.4257173190991848,
+        "sigma_std": 0.8787007183227741,
+        "sigma_max": 5.781628131866455,
+        "caution_count": 7,
+        "curiosity_count": 2
+      }
+    },
+    {
+      "episode_idx": 47,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.3672013299981669,
+        "sigma_std": 0.9290213857559907,
+        "sigma_max": 6.054516315460205,
+        "caution_count": 9,
+        "curiosity_count": 3
+      }
+    },
+    {
+      "episode_idx": 48,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.4147124738141963,
+        "sigma_std": 0.39903125566086056,
+        "sigma_max": 1.6044811010360718,
+        "caution_count": 35,
+        "curiosity_count": 9
+      }
+    },
+    {
+      "episode_idx": 49,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.185007938862291,
+        "sigma_std": 0.6424276077952583,
+        "sigma_max": 5.865156173706055,
+        "caution_count": 17,
+        "curiosity_count": 8
+      }
+    },
+    {
+      "episode_idx": 55,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.2636790134819205,
+        "sigma_std": 0.6248251660585458,
+        "sigma_max": 6.032447814941406,
+        "caution_count": 23,
+        "curiosity_count": 3
+      }
+    },
+    {
+      "episode_idx": 59,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.32703197146527957,
+        "sigma_std": 0.6940155133346964,
+        "sigma_max": 6.044167995452881,
+        "caution_count": 12,
+        "curiosity_count": 1
+      }
+    },
+    {
+      "episode_idx": 61,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.21421251207208022,
+        "sigma_std": 0.14552236500470445,
+        "sigma_max": 0.5324055552482605,
+        "caution_count": 15,
+        "curiosity_count": 0
+      }
+    },
+    {
+      "episode_idx": 65,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.36784937183456445,
+        "sigma_std": 0.8357949916212186,
+        "sigma_max": 6.209626197814941,
+        "caution_count": 17,
+        "curiosity_count": 7
+      }
+    },
+    {
+      "episode_idx": 67,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.2615015300689265,
+        "sigma_std": 0.37013952840824116,
+        "sigma_max": 5.937057018280029,
+        "caution_count": 33,
+        "curiosity_count": 1
+      }
+    },
+    {
+      "episode_idx": 76,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.2955722782178782,
+        "sigma_std": 0.665600810613368,
+        "sigma_max": 6.096999645233154,
+        "caution_count": 19,
+        "curiosity_count": 7
+      }
+    },
+    {
+      "episode_idx": 79,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.08248410746455193,
+        "sigma_std": 0.04778999462723732,
+        "sigma_max": 0.13027410209178925,
+        "caution_count": 0,
+        "curiosity_count": 0
+      }
+    },
+    {
+      "episode_idx": 82,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.3605800238181287,
+        "sigma_std": 0.1282977738414244,
+        "sigma_max": 0.7513158917427063,
+        "caution_count": 34,
+        "curiosity_count": 3
+      }
+    },
+    {
+      "episode_idx": 83,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.22084167097928004,
+        "sigma_std": 0.6604985135425961,
+        "sigma_max": 5.9943318367004395,
+        "caution_count": 11,
+        "curiosity_count": 6
+      }
+    },
+    {
+      "episode_idx": 85,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.28735684387448457,
+        "sigma_std": 0.5408176381400066,
+        "sigma_max": 5.843689918518066,
+        "caution_count": 7,
+        "curiosity_count": 5
+      }
+    },
+    {
+      "episode_idx": 86,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.12109387380381426,
+        "sigma_std": 0.07014736776180852,
+        "sigma_max": 0.3257259130477905,
+        "caution_count": 26,
+        "curiosity_count": 1
+      }
+    },
+    {
+      "episode_idx": 87,
+      "task": "",
+      "stats": {
+        "sigma_mean": 0.38031957469038746,
+        "sigma_std": 0.6754314173350375,
+        "sigma_max": 6.1484222412109375,
+        "caution_count": 67,
+        "curiosity_count": 9
+      }
+    }
+  ]
+}
